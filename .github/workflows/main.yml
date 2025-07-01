@@ -24,8 +24,9 @@ jobs:
           github_user_name: IlianTheOne0
           output: dist/github-contribution-grid-snake-dark.svg
           color_snake: "#00FF00"
-          color_dots: "#00FF00,#008000,#004000,#002000,#001000"
+          color_dots: "#444,#333,#222,#111,#000"
           background: "#000000"
+          args: --force-color
 
       - name: Push both versions
         uses: crazy-max/ghaction-github-pages@v4
