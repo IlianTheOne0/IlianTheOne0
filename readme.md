@@ -70,9 +70,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/IlianTheOne0/IlianTheOne0/raw/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/IlianTheOne0/IlianTheOne0/raw/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://github.com/IlianTheOne0/IlianTheOne0/raw/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/IlianTheOne0/IlianTheOne0/blob/output/github-contribution-grid-snake-dark.svg?raw=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/IlianTheOne0/IlianTheOne0/blob/output/github-contribution-grid-snake.svg?raw=true"/>
+    <img alt="github contribution grid snake animation" src="https://github.com/IlianTheOne0/IlianTheOne0/blob/output/github-contribution-grid-snake.svg?raw=true"/>
   </picture>
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer" alt="footer"/>
 </div>
