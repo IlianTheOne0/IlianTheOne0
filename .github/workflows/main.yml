@@ -9,6 +9,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - name: Create dist folder
+        run: mkdir -p dist
+
       - name: Generate light snake
         uses: Platane/snk@v3
         with:
