@@ -11,7 +11,7 @@
 </p>
 
 <hr>
-<h1>🛠️ Tech Stack</h1>
+<h1 align="center">🛠️ Tech Stack</h1>
 <p align="center">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML 5" width="50" height="50"/>
