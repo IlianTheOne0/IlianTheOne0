@@ -13,13 +13,13 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: IlianTheOne0
-          outputs: dist/github-contribution-grid-snake.svg
+          output: dist/github-contribution-grid-snake.svg
 
       - name: Generate dark snake
         uses: Platane/snk@v3
         with:
           github_user_name: IlianTheOne0
-          outputs: dist/github-contribution-grid-snake-dark.svg
+          output: dist/github-contribution-grid-snake-dark.svg
           color_snake: "#00FF00"
           color_dots: "#444,#333,#222,#111,#000"
           background: "#000000"
