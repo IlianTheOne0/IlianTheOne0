@@ -54,7 +54,7 @@
 <hr>
 <h1 align="center">📫 How to reach me</h1>
 <p>Mail: ilian.dev.ua@gmail.com</p>
-<p>Linked In: Not created yet</p>
+<p>LinkedIn: www.linkedin.com/in/ilian-shchepinskyi</p>
 
 <hr>
 <h1 align="center">📈 GitHub Stats</h1>
