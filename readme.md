@@ -7,7 +7,7 @@
 <hr>
 <h1 align="center">👋 About Me</h1>
 <p>
-  Hi, I'm <b>Ilian</b> — software developer (studying) from Ukraine. I specialize in <b>C++, .NET (C#), HTML&CSS</b> development.
+  Hi, I'm <b>Ilian</b> — software developer (studying) from Ukraine. I specialize in <b>C++, .NET (C#), HTML&CSS, React and React Native</b> development.
   Currently, I'm studying at STEP IT Academy and working on my various educational projects. Eager to collaborate with fellow developers, creators, and inquisitive thinkers.
 </p>
 
